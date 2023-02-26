@@ -1,3 +1,7 @@
 [submodule "themes/coHubloggeb"]
 	path = themes/coHubloggeb
 	url = https://github.com/StaticMania/blogge-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/charlesyaas/charlesyaas.github.io.git
+	branch = main
